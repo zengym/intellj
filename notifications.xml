@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Platform and Plugin Updates" />
+    <notification groupId="Spring Configuration Check" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
