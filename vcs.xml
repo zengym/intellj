@@ -18,6 +18,10 @@
           <option name="url" value="http://47.98.59.157:8080/cloudfoura" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@localhost:10022/root/cloudfoura.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zengyiming\Documents" />
