@@ -22,8 +22,12 @@
           <option name="url" value="ssh://git@localhost:10022/root/cloudfoura.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring2go/oauth2lab.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\zengyiming\Documents" />
+    <option name="cloneParentDir" value="D:\work\github" />
   </component>
 </application>
