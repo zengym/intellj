@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/spring2go/staffjoy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://home.zymsojune.tech:10080/zengym/bigdata.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\work\github" />
