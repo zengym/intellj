@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="jenkinsfile" type="Groovy" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
